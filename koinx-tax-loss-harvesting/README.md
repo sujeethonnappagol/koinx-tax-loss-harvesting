@@ -97,7 +97,7 @@ The app can be deployed for free on:
 
 ```bash
 npm run build
-# Then drag the `dist` folder to Netlify or connect the GitHub repo to Vercel
+
 ```
 
 ---
